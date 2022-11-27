@@ -2,9 +2,10 @@
 
 ([Jiao et al., 2019](https://arxiv.org/abs/1907.09408)) A Survey of Deep Learning-based Object Detection
 
-# Few-shot Computer Vision
+# Few-Shot and Zero-Shot Computer Vision
 
 ([Tian et al., 2020](https://arxiv.org/abs/2003.11539)) Rethinking few-shot image classification: a good embedding is all you need?
+([Burgert et al., 2022](https://arxiv.org/abs/2211.13224)) Peekaboo: Text to Image Diffusion Models are Zero-Shot Segmentors
 
 # Image Understanding and Concept Learning
 
