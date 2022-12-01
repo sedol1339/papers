@@ -2,6 +2,19 @@
 
 ([Jiao et al., 2019](https://arxiv.org/abs/1907.09408)) A Survey of Deep Learning-based Object Detection
 
+# Image Embeddings
+
+([Saini et al., 2020](https://arxiv.org/pdf/2205.08536.pdf)) Disentangling Visual Embeddings for Attributes and Objects
+   
+Nirat Saini‬ (3), Khoi Viet Pham (6), Abhinav Shrivastava (25).
+University of Maryland, College Park.
+
+**The problem**: it is easy to discriminate the **object** (apple, orange etc.) and **attribute** (sliced, dirty etc.) in the linguistic embedding space, but hard to discriminate them in the visual embedding space. This is due to the fact that image feature extractor is usually pre-trained for object classification, often along with image augmentation (e.g., color jitter) that tends to produce attribute-invariant image representation, thus does not learn objects and attributes separately.
+
+**Goal** is to disentangle attribute and object in the visual space. Our method, Object Attribute disentanglement (OADis), learns distinct and independent visual embeddings for peeled and apple from the visual feature of peeled apple.
+
+
+
 # Few-Shot and Zero-Shot Computer Vision
 
 ([Tian et al., 2020](https://arxiv.org/abs/2003.11539)) Rethinking few-shot image classification: a good embedding is all you need?
