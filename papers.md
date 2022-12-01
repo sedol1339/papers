@@ -1,3 +1,19 @@
+# Diffusion models
+
+([Sohl-Dickstein et al., 2015](https://arxiv.org/abs/1503.03585)) Deep Unsupervised Learning using Nonequilibrium Thermodynamics
+
+([Chen et al., 2022](https://arxiv.org/abs/2211.09788)) DiffusionDet: Diffusion Model for Object Detection
+
+([Burgert et al., 2022](https://arxiv.org/abs/2211.13224)) Peekaboo: Text to Image Diffusion Models are Zero-Shot Segmentors
+
+([Meng et al., 2022](https://arxiv.org/abs/2210.03142)) On Distillation of Guided Diffusion Models
+
+# GAN
+
+([Salimans et al., 2016](https://arxiv.org/abs/1606.03498)) Improved Techniques for Training GANs
+
+([Heusel et al., 2017](https://arxiv.org/abs/1706.08500)) GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium
+
 # General Object Detection
 
 ([Jiao et al., 2019](https://arxiv.org/abs/1907.09408)) A Survey of Deep Learning-based Object Detection
