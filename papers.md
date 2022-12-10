@@ -1,12 +1,22 @@
++ твиттер Яна Лекуна
+
+BigDetection https://paperswithcode.com/paper/bigdetection-a-large-scale-benchmark-for
+https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136800300.pdf
+
+
 # Diffusion models
 
 ([Sohl-Dickstein et al., 2015](https://arxiv.org/abs/1503.03585)) Deep Unsupervised Learning using Nonequilibrium Thermodynamics
 
-([Chen et al., 2022](https://arxiv.org/abs/2211.09788)) DiffusionDet: Diffusion Model for Object Detection
+([Chen et al., 2022](https://arxiv.org/abs/2211.09788)) **DiffusionDet: Diffusion Model for Object Detection**
 
-([Burgert et al., 2022](https://arxiv.org/abs/2211.13224)) Peekaboo: Text to Image Diffusion Models are Zero-Shot Segmentors
+([Burgert et al., 2022](https://arxiv.org/abs/2211.13224)) **Peekaboo: Text to Image Diffusion Models are Zero-Shot Segmentors**
 
 ([Meng et al., 2022](https://arxiv.org/abs/2210.03142)) On Distillation of Guided Diffusion Models
+
+# Multimodal models
+
+ ([Yasunaga et al., 2022](https://arxiv.org/abs/2211.12561)) **Retrieval-Augmented Multimodal Language Modeling**
 
 # GAN
 
@@ -143,6 +153,12 @@ Notable authors: [Stanislas Dehaene](https://scholar.google.com/citations?hl=en&
 
 ([Lakretz et al., 2022](https://aclanthology.org/2022.coling-1.285/)) Can Transformers Process Recursive Nested Constructions, Like Humans?
 
+([Culp et al., 2022](https://arxiv.org/abs/2211.16564)) **Testing GLOM's ability to infer wholes from ambiguous parts**
+
+([Kessler et al., 2022](https://arxiv.org/abs/2211.15944)) The Surprising Effectiveness of Latent World Models for Continual Reinforcement Learning
+
+([LeCun, 2022](https://openreview.net/pdf?id=BZ5a1r-kVsf)) A Path Towards Autonomous Machine Intelligence
+
 # MIT research: Perception and Scene Understanding for Embodied AI, Energy-Based Models
 
 Notable authors: [Yilun Du](https://scholar.google.com/citations?user=GRMMc_MAAAAJ&hl=en) ([blog](https://yilundu.github.io/)), [Shuang Li](https://scholar.google.com/citations?user=auA1nNAAAAAJ&hl=en) ([page](https://people.csail.mit.edu/lishuang/)), [Joshua B. Tenenbaum](https://scholar.google.com/citations?user=rRJ9wTJMUB8C&hl=en)
@@ -219,6 +235,18 @@ https://energy-based-model.github.io/Energy-based-Model-MIT/
 
 ([Schaeffer et al., 2022](https://proceedings.mlr.press/v162/schaeffer22a/schaeffer22a.pdf)) (#DataShift) Streaming Inference for Infinite Feature Models
 
-([Li et al., 2022](https://arxiv.org/abs/2210.11522)) Composing Ensembles of Pre-trained Models via Iterative Consensus
+([Li et al., 2022](https://arxiv.org/abs/2210.11522)) **Composing Ensembles of Pre-trained Models via Iterative Consensus**
+
+###############
+(далее работы не из MIT, цитирующие Iterative Consensus)
+
+([Lee and Yun, 2022](https://arxiv.org/abs/2211.10949)) Microstructure reconstruction using diffusion-based generative models
+
+([Brooks et al., 2022](https://arxiv.org/abs/2211.09800)) InstructPix2Pix: Learning to Follow Image Editing Instructions
 
 
+# Другое интересное
+
+([Dhiman et al., 2021](https://www.researchgate.net/publication/340378205_A_Novel_Algorithm_for_Global_Optimization_Rat_Swarm_Optimizer)) A Novel Algorithm for Global Optimization: Rat Swarm Optimizer
+
+([Belyaeva et al., 2022](https://arxiv.org/abs/2211.09862)) Knowledge distillation for fast and accurate DNA sequence correction
